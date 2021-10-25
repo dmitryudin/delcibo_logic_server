@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+.head1{
+    color:white;
+    text-align: center;
+}
+
+.rest-caption{
+    color:greenyellow;
+    text-align: left;
+    font-size: x-large;
+}
+
+.rest-description{
+    color:gold;
+    text-align: left;
+    font-size: large;
+}
+
+.img{
+    max-width: 100%;
+    height: auto;
+
+}

@@ -1,0 +1,43 @@
+/usr/lib/virt-sysprep/firstboot.sh start
+Scripts dir: /usr/lib/virt-sysprep/scripts
+=== Running /usr/lib/virt-sysprep/scripts/0001--tmp-resolv_4650_vm1925324-sh ===
+=== Running /usr/lib/virt-sysprep/scripts/0001--tmp-vm-fDXkLhLe3v-ping_gateway-sh ===
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following additional packages will be installed:
+  libnet1
+The following NEW packages will be installed:
+  arping libnet1
+0 upgraded, 2 newly installed, 0 to remove and 181 not upgraded.
+Need to get 71.3 kB of archives.
+After this operation, 226 kB of additional disk space will be used.
+Get:1 http://us.archive.ubuntu.com/ubuntu bionic/main amd64 libnet1 amd64 1.1.6+dfsg-3.1 [42.9 kB]
+Get:2 http://us.archive.ubuntu.com/ubuntu bionic/universe amd64 arping amd64 2.19-4 [28.3 kB]
+dpkg-preconfigure: unable to re-open stdin: No such file or directory
+Fetched 71.3 kB in 6s (12.6 kB/s)
+Selecting previously unselected package libnet1:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 58584 files and directories currently installed.)
+Preparing to unpack .../libnet1_1.1.6+dfsg-3.1_amd64.deb ...
+Unpacking libnet1:amd64 (1.1.6+dfsg-3.1) ...
+Selecting previously unselected package arping.
+Preparing to unpack .../arping_2.19-4_amd64.deb ...
+Unpacking arping (2.19-4) ...
+Setting up libnet1:amd64 (1.1.6+dfsg-3.1) ...
+Setting up arping (2.19-4) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Processing triggers for man-db (2.8.3-2) ...
+ARPING 95.214.11.1
+60 bytes from 4c:96:14:68:fb:f0 (95.214.11.1): index=0 time=1.250 msec
+60 bytes from 4c:96:14:68:fb:f0 (95.214.11.1): index=1 time=1.598 msec
+60 bytes from 4c:96:14:68:fb:f0 (95.214.11.1): index=2 time=1.454 msec
+60 bytes from 4c:96:14:68:fb:f0 (95.214.11.1): index=3 time=1.430 msec
+
+--- 95.214.11.1 statistics ---
+4 packets transmitted, 4 packets received,   0% unanswered (0 extra)
+rtt min/avg/max/std-dev = 1.250/1.433/1.598/0.123 ms
+=== Running /usr/lib/virt-sysprep/scripts/0001-systemctl-enable-networking ===
+Synchronizing state of networking.service with SysV service script with /lib/systemd/systemd-sysv-install.
+Executing: /lib/systemd/systemd-sysv-install enable networking
+=== Running /usr/lib/virt-sysprep/scripts/0001-systemctl-stop-systemd-networkd-socket-systemd-networkd-netw ===
+=== Running /usr/lib/virt-sysprep/scripts/0001-systemctl-unmask-networking ===
