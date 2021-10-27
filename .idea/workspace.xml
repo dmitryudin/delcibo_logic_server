@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e17104f-14fd-4961-b909-eb9bb954b22f" name="Default Changelist" comment="" />
+    <list default="true" id="7e17104f-14fd-4961-b909-eb9bb954b22f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api_help.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1zKN9ZLOler22WnrEq9ho0ptf3z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -115,6 +123,8 @@
       <workItem from="1635099162580" duration="1760000" />
       <workItem from="1635101023333" duration="1774000" />
       <workItem from="1635103002291" duration="548000" />
+      <workItem from="1635165433336" duration="668000" />
+      <workItem from="1635330152047" duration="1131000" />
     </task>
     <servers />
   </component>
@@ -139,6 +149,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="402" y="0" key="#delcibo/0.0.1366.728@0.0.1366.728" timestamp="1635101072212" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1635330329338">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1635330329338" />
+    <state x="-1274" y="92" width="1182" height="544" key="DirDiffDialog" timestamp="1635331542648">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1274" y="92" width="1182" height="544" key="DirDiffDialog/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1635331542648" />
     <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1635103311338">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -168,9 +186,14 @@
     </state>
     <state x="-1182" y="6" key="SettingsEditor/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1633892928507" />
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1635102630685" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1635165433052">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1635330193885">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1635330193885" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1635330151262">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1635330151262" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1635165433052" />
     <state x="-821" y="0" width="607" height="728" key="find.popup" timestamp="1633893160421">
       <screen x="-1366" y="0" width="1366" height="728" />
