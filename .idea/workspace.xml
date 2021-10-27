@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e17104f-14fd-4961-b909-eb9bb954b22f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api_help.md" afterDir="false" />
+    <list default="true" id="7e17104f-14fd-4961-b909-eb9bb954b22f" name="Default Changelist" comment="Документриванная версия">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +22,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
@@ -124,12 +123,25 @@
       <workItem from="1635101023333" duration="1774000" />
       <workItem from="1635103002291" duration="548000" />
       <workItem from="1635165433336" duration="668000" />
-      <workItem from="1635330152047" duration="1131000" />
+      <workItem from="1635330152047" duration="1534000" />
+      <workItem from="1635331982595" duration="231000" />
     </task>
+    <task id="LOCAL-00001" summary="Документриванная версия">
+      <created>1635331559180</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635331559180</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Документриванная версия" />
+    <option name="LAST_COMMIT_MESSAGE" value="Документриванная версия" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Deployment" timestamp="1635101273527">
@@ -149,9 +161,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="402" y="0" key="#delcibo/0.0.1366.728@0.0.1366.728" timestamp="1635101072212" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1635330329338">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="-1058" y="0" key="CommitChangelistDialog2" timestamp="1635331582741">
+      <screen x="-1366" y="0" width="1366" height="728" />
     </state>
+    <state x="-1058" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1635331582741" />
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1635330329338" />
     <state x="-1274" y="92" width="1182" height="544" key="DirDiffDialog" timestamp="1635331542648">
       <screen x="-1366" y="0" width="1366" height="728" />
@@ -186,13 +199,15 @@
     </state>
     <state x="-1182" y="6" key="SettingsEditor/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1633892928507" />
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1635102630685" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1635330193885">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="-1091" y="97" key="Vcs.Push.Dialog.v2" timestamp="1635331592404">
+      <screen x="-1366" y="0" width="1366" height="728" />
     </state>
+    <state x="-1091" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1635331592404" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1635330193885" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1635330151262">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="-987" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1635331981695">
+      <screen x="-1366" y="0" width="1366" height="728" />
     </state>
+    <state x="-987" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1635331981695" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1635330151262" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1635165433052" />
     <state x="-821" y="0" width="607" height="728" key="find.popup" timestamp="1633893160421">
